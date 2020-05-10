@@ -1,1 +1,1 @@
-# European and Forward-start option Pricing in the Heston model
+# European and Forward-start option pricing and implied volatility in the Heston model
