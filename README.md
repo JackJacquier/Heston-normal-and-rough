@@ -1,2 +1,1 @@
-# Heston
-Option Pricing in Heston
+# European and Forward-start option Pricing in the Heston model
